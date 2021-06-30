@@ -1,0 +1,51 @@
+h1 {
+    color: blue
+}
+
+.title {
+    text-align: center;
+    /* display: inline-block; */
+    background-color: lightblue; 
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 50px;
+}
+
+#dolphin-image {
+    width: 100px;
+    /* height: 300px; */
+    display: inline-block;
+}
+
+main {
+    background-color: lightgreen;
+    height: 800px;
+}
+
+.square {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    color: white;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.absolute {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.relative {
+    position: relative;
+    top: 100px;
+    right: 50px;
+}
+
+.fixed {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}

@@ -1,8 +1,18 @@
 .inline-block {
-    width: 300px;
+    width: 500px;
     background-color: black;
     color: white;
     padding: 20px;
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+a {
+    color: blanchedalmond;
+
 }
 
 .hello {
@@ -12,7 +22,10 @@
     font-weight: 600;
 }
 
-
+img {
+    width: 5%;
+    height: auto;
+}
 /*.square {
     background-color: red;
     height: 100px;

@@ -1,28 +1,19 @@
-h1 {
-    color: blue
+.inline-block {
+    width: 300px;
+    background-color: black;
+    color: white;
+    padding: 20px;
 }
 
-.title {
-    text-align: center;
-    /* display: inline-block; */
-    background-color: lightblue; 
-    margin-left: 20px;
-    margin-right: 20px;
-    padding: 50px;
+.hello {
+    font-size: 200px;
+    padding-top: 200px;
+    font-family: sans-serif;
+    font-weight: 600;
 }
 
-#dolphin-image {
-    width: 100px;
-    /* height: 300px; */
-    display: inline-block;
-}
 
-main {
-    background-color: lightgreen;
-    height: 800px;
-}
-
-.square {
+/*.square {
     background-color: red;
     height: 100px;
     width: 100px;
